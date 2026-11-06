@@ -1,4 +1,4 @@
--- Discord: creativeheii | Roblox: Cursed_GamerX
+-- Discord: creativehell | Roblox: Cursed_GamerX
 
 local Players = game:GetService("Players")
 local CollectionService = game:GetService("CollectionService") -- tags > hard paths; works if stuff gets added mid-session too
